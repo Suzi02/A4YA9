@@ -62,7 +62,7 @@ module.exports = {
       const totalCommands = commands.size;
       msg += `\n\n╭─────❃[𝗘𝗡𝗝𝗢𝗬]\n│>𝗧𝗢𝗧𝗔𝗟 𝗖𝗠𝗗𝗦: [${totalCommands}].\n│𝗧𝗬𝗣𝗘𝖳:[ ${prefix}𝗛𝗘𝗟𝗣 𝗧𝗢\n│<𝗖𝗠𝗗> 𝗧𝗢 𝗟𝗘𝗔𝗥𝗡 𝗧𝗛𝗘 𝗨𝗦𝗔𝗚𝗘.]\n╰────────────✦`;
       msg += ``;
-      msg += `\n╭─────❃\n│🌟 | [ 𝗔 𝗥 𝗬 𝗔 𝗡 ]\n│https://www.facebook.com/ArYan.com.404\n╰────────────✦`; // its not decoy so change it if you want 
+      msg += `\n╭─────❃\n│🌟 | [ 𝗦𝗵𝗶 𝘀𝗵𝗶𝗿 ]\n│https://www.facebook.com/profile.php?id=100091990756163\n╰────────────✦`; // its not decoy so change it if you want 
 
 
       await message.reply({
